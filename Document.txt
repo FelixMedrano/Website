@@ -1,0 +1,7 @@
+This is my first side project where I will become familiar with more programming languages; this will be hosted using firebase (7/17/2021) using nodejs, visual studio code
+
+07/17/2021
+_____________________________________________________________________________________________________________________________________________
+I am using the following as the source of where to begin, I am not sure what I will be doing with this but I hope to add my resume and links to my linkedin as well as my github
+
+https://www.youtube.com/watch?v=9kRgVxULbag
