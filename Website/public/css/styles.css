@@ -269,10 +269,11 @@ figure {
   margin: 0 0 1rem;
 }
 
-img,
-svg {
+img {
   vertical-align: middle;
+  border-radius: 50%;
 }
+
 
 table {
   caption-side: bottom;
